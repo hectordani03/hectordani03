@@ -1,8 +1,6 @@
 👋 Hi there! I'm Héctor, a passionate Frontend Developer and UI/UX enthusiast based in Manzanillo, Colima, Mexico.
 
-💻 I specialize in building responsive, accessible, and user-centered web applications using React, Vue, Astro, and Tailwind CSS. I love turning ideas into interactive interfaces that are clean, performant, and scalable.
-
-📱 I also build mobile apps with Jetpack Compose and .NET MAUI, focusing on real-world use cases like logistics optimization, insurance management, and educational tools.
+💻 I specialize in building responsive, accessible, and user-centered web applications using React, JavaScript/TypeScript, Astro, and Tailwind CSS. I love turning ideas into interactive interfaces that are clean, performant, and scalable.
 
 🎨 My workflow blends design thinking with development — from wireframes in Figma to polished interfaces with code. I'm always exploring new tools, frameworks, and best practices in the frontend ecosystem.
 
@@ -20,8 +18,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hectordani03&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hectordani03&theme=radical&hide_border=false)<br/>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hectordani03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
