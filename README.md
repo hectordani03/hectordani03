@@ -1,7 +1,24 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Hector Martinez</h1>
+<h3 align="center">👋 Hi there! I'm Héctor, a passionate Frontend Developer and UI/UX enthusiast based in Manzanillo, Colima, Mexico. 💻 I specialize in building responsive, accessible, and user-centered web applications using React, Vue, Astro, and Tailwind CSS. I love turning ideas into interactive interfaces that are clean, performant, and scalable. 📱 I also build mobile apps with Jetpack Compose and .NET MAUI, focusing on real-world use cases like logistics optimization, insurance management, and educational tools. 🎨 My workflow blends design thinking with development — from wireframes in Figma to polished interfaces with code. I'm always exploring new tools, frameworks, and best practices in the frontend ecosystem. 🚀 Check out some of my featured projects below — from startup websites to data-driven management platforms. Let's build something great!</h3>
+
+- 🌱 I’m currently learning **Node.js (Express), REST APIs, authentication (JWT/OAuth), database design (SQL & NoSQL), Prisma ORM, serverless functions, API security, and deployment with Vercel & Firebase.**
+
+- 👯 I’m looking to collaborate on **Frontend/UI projects with strong design focus**
+
+- 👨‍💻 All of my projects are available at [https://hectormartinez.vercel.app/](https://hectormartinez.vercel.app/)
+
+- 💬 Ask me about **React, JavaScript, TypeScript, TailwindCSS, CSS**
+
+- 📫 How to reach me **hectormtzinfo@gmail.com**
+
+- 📄 Know about my experiences [https://hectormartinez.vercel.app/](https://hectormartinez.vercel.app/)
+
+- ⚡ Fun fact **I design with Figma before I code — and yes, I still break things (on purpose)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hector-mart%c3%adnez/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hector-mart%c3%adnez/" height="30" width="40" /></a>
+<a href="https://instagram.com/hectordmtz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hectordmtz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
