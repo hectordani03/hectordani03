@@ -1,4 +1,15 @@
 # 💫 About Me:
+👋 Hi there! I'm Héctor, a passionate Frontend Developer and UI/UX enthusiast based in Manzanillo, Colima, Mexico.
+
+💻 I specialize in building responsive, accessible, and user-centered web applications using React, Vue, Astro, and Tailwind CSS. I love turning ideas into interactive interfaces that are clean, performant, and scalable.
+
+📱 I also build mobile apps with Jetpack Compose and .NET MAUI, focusing on real-world use cases like logistics optimization, insurance management, and educational tools.
+
+🎨 My workflow blends design thinking with development — from wireframes in Figma to polished interfaces with code. I'm always exploring new tools, frameworks, and best practices in the frontend ecosystem.
+
+🚀 Check out my erb portfolio - https://hectormartinez.vercel.app
+
+
 🔭 I’m currently working on ReUC - A repository platform for tracking, managing, and resolving challenges in the production sector<br>👯 I'm looking to collaborate on software projects on the Frontend/UI side with a strong focus on design.🤝 I’m looking for help with<br>🌱 I'm currently learning how to implement AI in software.<br>💬 Ask me about React, JavaScript, TypeScript, TailwindCSS, CSS<br>⚡ Fun fact: I design with Figma before I code — and yes, I still break things (on purpose)
 
 
@@ -10,7 +21,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hectordani03&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hectordani03&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hectordani03&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hectordani03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
